@@ -1,0 +1,7 @@
+{
+  "prompt": "Abstract editorial illustration, top-down aerial view. A precise geometric grid of square tessellated tiles covers the entire frame, viewed from directly above. Each tile represents a unit of Arctic sea ice. Exactly 43 of every 100 tiles are white — cold, solid, slightly translucent ice-blue white — arranged in a compressed cluster in the upper-left of the frame. The remaining 57 tiles are pure deep black, absent, gone — dark ocean where ice used to be. The boundary between the white cluster and the black void is jagged and irregular, not a straight edge. The surviving white tiles have fine hairline cracks running through them. The black areas dominate the frame — more than half the image is empty darkness. The perspective is flat and clinical, like a scientific satellite image rendered in graphic design. Mood: clinical grief, irrefutable loss, the weight of a ratio. Color palette: pure cold white, deep matte black, faint ice-blue in the tile surfaces. Style: flat graphic, high contrast, geometric, abstract — not photographic, not cinematic. No gradients, no atmosphere, no sky, no water texture, no polar bears, no globe, no thermometer. No text, no labels, no numbers, no legends, no axes, absolutely no words anywhere in the image.",
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
+  "dataset_name": "NSIDC Sea Ice Index",
+  "dataset_url": "https://nsidc.org/data/seaice_index",
+  "insight": "The Arctic lost 13% of its sea ice per decade between 1979 and 2023, a loss so large it is visible from space."
+}
